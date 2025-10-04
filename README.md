@@ -91,8 +91,9 @@ const gaurav = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=your-best-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/your-best-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/another-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=your-best-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/SeekEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/Gil)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=your-best-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/Ro0m)
 
 </div>
 
