@@ -156,9 +156,23 @@ const gaurav = {
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+📊 This Week I Spent My Time On
+
+💬 Programming Languages:
+JavaScript   8 hrs 15 mins   ████████████████░░░░░   68.2%
+HTML         2 hrs 30 mins   █████░░░░░░░░░░░░░░░░   20.7%
+CSS          1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░   11.1%
+
+🔥 Editors:
+VS Code      12 hrs 5 mins   █████████████████████   100.0%
+
+💻 Operating System:
+Windows      12 hrs 5 mins   █████████████████████   100.0%
+
+📦 Category:
+Coding       11 hrs 30 mins  ████████████████████░   95.2%
+Browsing     35 mins         █░░░░░░░░░░░░░░░░░░░░   4.8%
+
 
 ---
 
