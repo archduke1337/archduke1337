@@ -2,7 +2,7 @@
   
 # Hey there! I'm Gaurav 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=BCA+Student+%40+ADYPU;Full-Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=BCA+Student+%40+ADYPU;Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +13,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 **BCA Student** at Dr. D. Y. Patil Vidyapeeth (ADYPU), Pune
-- 💻 **Full-Stack Developer** passionate about creating amazing web experiences
-- 🌱 Currently exploring **Advanced JavaScript Frameworks** and **Cloud Technologies**
+- 💻 **Front-End Developer** passionate about creating amazing web experiences
+- 🌱 Currently exploring **Advanced JavaScript Frameworks** and **CyberSecurity**
 - 🎯 Goal: Building innovative solutions that make a difference
 - 🏠 Based in **Pune, India**
 - ⚡ Fun fact: I turn coffee into code! ☕️
@@ -31,12 +31,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 </div>
 
@@ -71,14 +74,27 @@
 
 ## 🌟 What I'm Up To
 
+```
+javascript
 const gaurav = {
-currentFocus: ["React.js", "Node.js", "Cloud Computing"],
-learning: ["Next.js", "TypeScript", "AWS"],
-collaboration: "Open to collaborate on innovative web projects",
-askMeAbout: ["Web Development", "JavaScript", "Student Life"],
-funFact: "I debug with console.log() and I'm proud of it! 😄"
+    currentFocus: ["React.js", "Node.js", "Cloud Computing"],
+    learning: ["Next.js", "TypeScript", "AWS"],
+    collaboration: "Open to collaborate on innovative web projects",
+    askMeAbout: ["Web Development", "JavaScript", "Student Life"],
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
+```
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=your-best-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/your-best-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archduke1337&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/archduke1337/another-project)
+
+</div>
 
 ---
 
@@ -94,11 +110,25 @@ funFact: "I debug with console.log() and I'm proud of it! 😄"
 
 ## 🎯 Current Goals
 
-- 🚀 **Mastering** modern JavaScript frameworks
+- 🚀 **Mastering** modern JavaScript frameworks (React, Next.js)
 - 🌐 **Building** full-stack applications with real-world impact
-- 📚 **Excelling** in my BCA studies
+- 📚 **Excelling** in my BCA studies at ADYPU
 - 🤝 **Contributing** more to open-source projects
-- ☁️ **Learning** cloud technologies and DevOps
+- ☁️ **Learning** cloud technologies (AWS, Firebase) and DevOps
+- 💼 **Developing** professional web development skills
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -106,10 +136,10 @@ funFact: "I debug with console.log() and I'm proud of it! 😄"
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthramyadv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravramyadav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurvv)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archduke1337)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
 </div>
 
@@ -120,8 +150,9 @@ funFact: "I debug with console.log() and I'm proud of it! 😄"
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Watch my contribution graph get eaten by the snake!
-![snake gif](https://github.com/archduke1337/archduke1337/blob/output/github-contribution-grid-snake.svg)
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
