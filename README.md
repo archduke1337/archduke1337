@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 **BCA Student** at Dr. D. Y. Patil Vidyapeeth (ADYPU), Pune
+- 🎓 **BCA Student** at ADYPU, Pune
 - 💻 **Front-End Developer** passionate about creating amazing web experiences
 - 🌱 Currently exploring **Advanced JavaScript Frameworks** and **CyberSecurity**
 - 🎯 Goal: Building innovative solutions that make a difference
