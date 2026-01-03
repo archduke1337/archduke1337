@@ -18,7 +18,8 @@
 ## 🎯 About Me
 
 <img align="right" alt="Coding Animation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-```typescript
+```
+typescript
 const gaurav = {
     role: "Full-Stack Developer & Student",
     location: "Pune, Maharashtra, India 🇮🇳",
@@ -28,6 +29,7 @@ const gaurav = {
     lifePhilosophy: "Code with purpose, learn with curiosity",
     superPower: "Turning caffeine into functional code ☕️"
 };
+```
 ```
 
 ### 🌟 Quick Highlights
