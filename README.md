@@ -19,7 +19,6 @@
 
 <img align="right" alt="Coding Animation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ```
-typescript
 const gaurav = {
     role: "Full-Stack Developer & Student",
     location: "Pune, Maharashtra, India 🇮🇳",
