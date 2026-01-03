@@ -30,7 +30,7 @@ const gaurav = {
     superPower: "Turning caffeine into functional code ☕️"
 };
 ```
-```
+
 
 ### 🌟 Quick Highlights
 
