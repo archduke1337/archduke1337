@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://opbento.vercel.app/api/bento/image?g=archduke1337&z=cd0f0">
-  <img src="https://opbento.vercel.app/api/bento/image?g=archduke1337&z=cd0f0" alt="OpBento" width="1000">
+  <img src="https://opbento.vercel.app/api/bento/image?g=archduke1337&z=cd0f0" alt="OpBento" width="1200">
 </a>
 
 
