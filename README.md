@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/archduke.is--a.dev-000000?style=flat&logo=vercel&logoColor=white)](https://archduke.is-a.dev/about)
 
 <a href="https://opbento.vercel.app/api/bento/image?g=archduke1337&z=cd0f0">
-  <img src="https://opbento.vercel.app/api/bento/image?g=archduke1337&z=cd0f0" alt="OpBento" width="400">
+  <img src="https://opbento.vercel.app/api/bento/image?g=archduke1337&z=cd0f0" alt="OpBento" width="600">
 </a>
 
 </div>
