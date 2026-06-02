@@ -1,0 +1,21 @@
+{
+  "name": "archduke1337-bento",
+  "version": "1.0.0",
+  "description": "A dynamic GitHub README with OpBento image updates",
+  "type": "module",
+  "scripts": {
+    "update": "bun run getNewBento.ts",
+    "dev": "bun run getNewBento.ts"
+  },
+  "keywords": [
+    "github",
+    "readme",
+    "bento",
+    "profile"
+  ],
+  "author": "archduke1337",
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "^1.0.0"
+  }
+}
