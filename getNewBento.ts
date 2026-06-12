@@ -58,7 +58,7 @@ const isValidHttpUrl = (value: string): boolean => {
   }
 };
 
-const sleep = (ms: number): Promise<void> => new Promise(resolve => setTimeout(resolve, ms));
+const sleep = (ms: number): Promise<void> => new Promise(r => setTimeout(r, ms));
 
 const fetchBentoUrl = async (apiUrl: string, retries = 3): Promise<string> => {
   for (let attempt = 0; attempt <= retries; attempt += 1) {

@@ -16,7 +16,7 @@
     "profile"
   ],
   "author": "archduke1337",
-  "license": "MIT",
+  "license": "Unlicense",
   "devDependencies": {
     "bun-types": "^1.0.0",
     "typescript": "^5.9.3"
