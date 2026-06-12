@@ -1,18 +1,20 @@
-name: Daily OP-Bento image Update
+name: Update OP-Bento image
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'push' || !startsWith(github.event.head_commit.message, 'chore: update bento image') }}
     permissions:
       contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Bun
@@ -20,22 +22,14 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Cache Bun
-        uses: actions/cache@v4
-        with:
-          path: ~/.bun/install/cache
-          key: ${{ runner.os }}-bun-${{ hashFiles('getNewBento.ts') }}
-          restore-keys: |
-            ${{ runner.os }}-bun-
-
       - name: Update Bento
-        run: bun getNewBento.ts
+        run: bun run getNewBento.ts
 
-      - name: Commit and Push
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git diff --cached --quiet && echo "No README changes to commit" && exit 0
           git commit -m "chore: update bento image"
           git push
