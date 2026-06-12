@@ -6,7 +6,9 @@
 
 *You expect me to be Perfect and I'm just full of Flaws.*
 
-[![Portfolio](https://archduke.is-a.dev/favicon.png)](https://archduke.is-a.dev/about)
+<a href="https://archduke.is-a.dev/about">
+  <img src="https://archduke.is-a.dev/favicon.png" alt="Portfolio" width="32">
+</a>
 
 
 </div>
