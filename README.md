@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="300" alt="Hello GIF" />
+  <img src="./NEvPzZ8bd1V4Y.webp" width="100%" alt="Hello GIF" />
 
   <br />
 
