@@ -1,13 +1,15 @@
-<div align="center">
+ <div align="center">
 
- ![HelloGIF](https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif)
-  
+  <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="300" alt="Hello GIF" />
 
-*You expect me to be Perfect and I'm just full of Flaws.*
+  <br />
 
-<a href="https://archduke.is-a.dev/about">
-  <img src="https://archduke.is-a.dev/favicon.png" alt="Portfolio" width="32">
-</a>
+  <p><i>You expect me to be perfect, and I'm just full of flaws.</i></p>
 
+  <br />
+
+  <a href="https://archduke.is-a.dev/about">
+    <img src="https://archduke.is-a.dev/favicon.png" width="32" alt="Portfolio" />
+  </a>
 
 </div>
